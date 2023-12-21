@@ -33,22 +33,22 @@
 
 Seraph took a tiny sip from his teacup.
 
- &mdash; You are The One. And your enemy is also one, but many.
+ "You are The One. And your enemy is also one, but many."
  
- &mdash; Is this a riddle? - Neo sank down on the nearest bench.
+ "Is this a riddle?" Neo sank down on the nearest bench.
  
- &mdash; No. But you need to train fighting against multiple enemies at once.
+ "No. But you need to train fighting against multiple enemies at once."
  
- &mdash; I already did that, several times. You just knock out one, then the other...
+ "I already did that, several times. You just knock out one, then the other..."
  
 Seraph raised his hand in a calming gesture.
  
- &mdash; You know that real enemies will almost never attack you one by one? 
+ "You know that real enemies will almost never attack you one by one?"
  
- &mdash; Of course. This is not a movie. Just a virtual reality.
+ "Of course. This is not a movie. Just a virtual reality."
  
- &mdash; The pause between the moves can be a fraction of a second. You have to keep track of your
- surroundings and switch between appropriate counter actions.
+ "The pause between the moves can be a fraction of a second. You have to keep track of your
+ surroundings and switch between appropriate counter actions."
  
 Neo also took a sip. Even though he knew the tea was a total fiction, that da hung pao was 
 amazing.
@@ -190,22 +190,22 @@ and all the code should use [async/await paradigm](https://docs.python.org/3/lib
 ## Chapter VI
 ### Exercise 02: Deja Vu
 
- &mdash; Whenever one sees a same repeated event twice means it's time to prepare for the worst.
+ "Whenever one sees a same repeated event twice means it's time to prepare for the worst."
  
 Neo thought about this for a moment, but then it dawned on him what Seraph meant.
 
- &mdash; Deja vu is a glitch in the matrix, right?
+ "Deja vu is a glitch in the matrix, right?"
  
- &mdash; It is more of a sigh of a sudden change of the surroundings. 
+ "It is more of a sigh of a sudden change of the surroundings."
  
- &mdash; So, what are my options in this case?
+ "So, what are my options in this case?"
  
- &mdash; Escape, of course. There is no shame in that. But keeping track of the "glitching"
- objects also helps.
+ "Escape, of course. There is no shame in that. But keeping track of the 'glitching'
+ objects also helps."
  
- &mdash; In what way?
+ "In what way?"
  
- &mdash; If they are part of the deja vu, that means they are not changed during the upgrade.
+ "If they are part of the deja vu, that means they are not changed during the upgrade."
  
 Neo wanted to ask more questions, but Seraph closed his eyes and politely showed him to the 
 door behind him. The Oracle was waiting.
