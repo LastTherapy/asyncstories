@@ -187,7 +187,7 @@ One of the features our crawler still lacks is caching. If the server has seen o
 
 Another thing would be to collect some metrics on the input data. Regardless of whether the URL was cached or not, let's also count on a server how many requests we've done so far for a particular domain (e.g. for "https://www.google.com/search?q=there+is+no+spoon" the domain would be "www.google.com").
 
-You should use Redis for both the cache counter and the domain counter. All code should still be asynchronous, using the async/await paradigm. You may consider using the [aioredis](https://aioredis.readthedocs.io/en/latest/) library for this task. Since the client code is not affected, you should only submit a file with a modified EX01 server code called "server_cached.py".
+You should use Redis for both the cache counter and the domain counter. All code should still be asynchronous, using the async/await paradigm. You may consider using the [redis](https://github.com/redis/redis-py) library for this task. Since the client code is not affected, you should only submit a file with a modified EX01 server code called "server_cached.py".
 
 BONUS: Update your code to include another coroutine that cleans up the cached entries after a configurable timeout.
 
